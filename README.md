@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gonzaliza
-- 👀 I’m interested in python :)
-- 🌱 I’m currently learning python
-
+- I’m interested in python :)
+- I’m currently learning python
+- I’m currently learning Java
 
 <!---
 Gonzaliza/Gonzaliza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
